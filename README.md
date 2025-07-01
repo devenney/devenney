@@ -3,7 +3,7 @@
 > “Simple' does not mean 'easy'. I have learned that the things that seem the simplest are often the most powerful of all.”  
 > – Thrall, Son of Durotan
 
-Hi, I'm Brendan. I'm the Head of Engineering for European Payments at [Form3](https://form3.tech).
+Hi, I'm Brendan. I'm a Staff Software Engineer at [Approov Mobile Security](https://approov.io).
 
 My current focus is:
 - 📡 Expanding my computer science knowledge.
