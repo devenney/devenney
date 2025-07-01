@@ -9,7 +9,7 @@ My current focus is:
 - 📡 Expanding my computer science knowledge.
 - 🔠 Learning the fundamentals of Gàidhlig.
 
-In previous lives, I have spent time as a Software Engineer, Platform Engineer, Technical Lead.
+In previous lives, I have spent time as a Software Engineer, Platform Engineer, Technical Lead, and Head of Engineering.
 
 ## Organizations I Support
 
