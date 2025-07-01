@@ -7,7 +7,7 @@ Hi, I'm Brendan. I'm a Staff Software Engineer at [Approov Mobile Security](http
 
 My current focus is:
 - 📡 Expanding my computer science knowledge.
-- 🔠 Learning the fundamentals of Gàidhlig.
+- 🇳🇴 Learning the fundamentals of Norsk.
 
 In previous lives, I have spent time as a Software Engineer, Platform Engineer, Technical Lead, and Head of Engineering.
 
