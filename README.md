@@ -18,4 +18,4 @@ In previous lives, I have spent time as a Software Engineer, Platform Engineer, 
 
 ---
 
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or visit my [website](https://devenney.io).*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/brendandevenney/) or visit my [website](https://devenney.io).*
